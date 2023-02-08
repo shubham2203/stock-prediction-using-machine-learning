@@ -1,20 +1,20 @@
-# stock-prediction-using-machine-learning
-In this research project, we make an effort to put machine learning methods for stock price prediction. Stock price forecasting uses machine learning effectively. In order to make wiser and more accurate financial decisions, machine learning methods can be examined. The scope of this project revolves around financial ratios published by companies. This project put forth a stock market price forecasting technique based on the fundamental study of stocks. The technique
+# Stock Prediction by Fundamental Analysis Using Machine Learning Algorithms
+* In this research project, we make an effort to put machine learning methods for stock price prediction. Stock price forecasting uses machine learning effectively. In order to make wiser and more accurate financial decisions, machine learning methods can be examined. The scope of this project revolves around financial ratios published by companies. This project put forth a stock market price forecasting technique based on the fundamental study of stocks. The technique
 examines the financial ratios or parameters of stocks over a specific period of time and forecasts whether they will experience a gain or loss. We found that strategies like random forest and the LSTM algorithm function best throughout the system of thinking about various strategies and factors that should be taken into account .
 
-After training our model by Fundamental Analysis(FA) & Technical Analysis(TA) using ML Algorithms LSTM and Random Forest(RF) we visualised the result using Streamlit framework
+* After training our model by Fundamental Analysis(FA) & Technical Analysis(TA) using ML Algorithms LSTM and Random Forest(RF) we visualised the result using Streamlit framework
 
-In Dymanic LSTM we are taking user input of a stock(in the screenshots you can see the user input is Apple Stock - 'AAPL') and fetching that stocks data from yahoofinance.com and then loading it into our model and making predcitions
+* In Dymanic LSTM we are taking user input of a stock(in the screenshots you can see the user input is Apple Stock - 'AAPL') and fetching that stocks data from yahoofinance.com and then loading it into our model and making predcitions
 
-The webs app couldnt be deployed because of conflict in package dependencies which couldnt be resolved while deploying using Streamlit
+* The webs app couldnt be deployed because of conflict in package dependencies which couldnt be resolved while deploying using Streamlit
 
- Steps to run this app on your pc/laptop
+ - Steps to run this app on your pc/laptop
 * Clone this repository
 * Install packages mentioned in requirements.text
 * In terminal go the the app.py file location 
 * type " streamlit run app.py "
 
-For more detail on this research project please refer to research paper published - https://drive.google.com/file/d/19YbOOzCpfoACDp3ZhzMKLeT306bGDgPN/view?usp=sharing
+* For more detail on this research project please refer to research paper published - https://drive.google.com/file/d/19YbOOzCpfoACDp3ZhzMKLeT306bGDgPN/view?usp=sharing
 
 
 --------------------------------------------------------------------------- VIDEO ---------------------------------------------------------------
