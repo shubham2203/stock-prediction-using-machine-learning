@@ -2,7 +2,7 @@
 In this research project, we make an effort to put machine learning methods for stock price prediction. Stock price forecasting uses machine learning effectively. In order to make wiser and more accurate financial decisions, machine learning methods can be examined. The scope of this project revolves around financial ratios published by companies. This article put forth a stock market price forecasting technique based on the fundamental study of stocks. The technique
 examines the financial ratios or parameters of stocks over a specific period of time and forecasts whether they will experience a gain or loss. We found that strategies like random forest and the LSTM algorithm function best throughout the system of thinking about various strategies and factors that should be taken into account 
 
----------------------------------------------------------------------------- VIDEO --------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------- VIDEO ----------------------------------------------------------------------------------
 
 https://user-images.githubusercontent.com/54469061/217648122-a47d2dd3-9062-4b1c-90f6-ee95655dea00.mp4
 
