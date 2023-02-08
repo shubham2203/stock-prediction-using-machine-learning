@@ -4,7 +4,9 @@ examines the financial ratios or parameters of stocks over a specific period of 
 
 After training our model by Fundamental Analysis(FA) & Technical Analysis(TA) using ML Algorithms LSTM and Random Forest(RF) we visualised the result using Streamlit framework
 
-The webs app couldnt be deployed because of conflict in package dependencies which couldnt be resolved while deploying using Streamliy
+In Dymanic LSTM we are taking user input of a stock(in the screenshots you can see the user input is Apple Stock - 'AAPL') and fetching that stocks data from yahoofinance.com and then loading it into our model and making predcitions
+
+The webs app couldnt be deployed because of conflict in package dependencies which couldnt be resolved while deploying using Streamlit
 
  Steps to run this app on your pc/laptop
 * Clone this repository
