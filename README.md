@@ -6,11 +6,11 @@ After training our model by Fundamental Analysis(FA) & Technical Analysis(TA) us
 
 The webs app couldnt be deployed because of conflict in package dependencies which couldnt be resolved while deploying using Streamliy
 
-* Steps to run this app on your pc/laptop
-1.Clone this repository
-2.Install packages mentioned in requirements.text
-3.In terminal go the the app.py file location 
-4.type " streamlit run app.py "
+ Steps to run this app on your pc/laptop
+* Clone this repository
+* Install packages mentioned in requirements.text
+* In terminal go the the app.py file location 
+* type " streamlit run app.py "
 
 For more detail on this research project please refer to research paper published - https://drive.google.com/file/d/19YbOOzCpfoACDp3ZhzMKLeT306bGDgPN/view?usp=sharing
 
