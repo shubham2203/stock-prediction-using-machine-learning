@@ -14,7 +14,7 @@ examines the financial ratios or parameters of stocks over a specific period of 
 * In terminal go the the app.py file location 
 * type " streamlit run app.py "
 
-* For more detail on this research project please refer to research paper published - https://drive.google.com/file/d/19YbOOzCpfoACDp3ZhzMKLeT306bGDgPN/view?usp=sharing
+* For more detail on this research project please refer to research paper published -[ https://drive.google.com/file/d/19YbOOzCpfoACDp3ZhzMKLeT306bGDgPN/view?usp=sharing] or https://doi.org/10.1109/IC3I56241.2022.10072563
 
 
 --------------------------------------------------------------------------- VIDEO ---------------------------------------------------------------
